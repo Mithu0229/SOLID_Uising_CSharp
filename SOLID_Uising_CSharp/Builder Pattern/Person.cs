@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//https://medium.com/@gustavorestani/the-most-used-design-patterns-in-net-development-80d76f9fb6b
 namespace SOLID_Uising_CSharp.Builder_Pattern
 {
     //The Builder pattern is used to separate the construction of a complex object from its representation.
